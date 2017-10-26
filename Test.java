@@ -1,9 +1,10 @@
 
 
 public class Test{
+
          public static void main(String[] args) {
-	System.out.println("This is done by master");
-	
+			System.out.println("This is  master");
+			System.out.println("This is by Tester");
 	}
 
 }
